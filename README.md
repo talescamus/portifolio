@@ -7,4 +7,4 @@ Conhecimento básico de HTML e CSS
 Navegador web moderno!
 
 
-[Uploading Captura de tela 2025-02-21 165337.png…]()
+![Captura de tela 2025-02-21 165337](https://github.com/user-attachments/assets/12ed8460-7f07-4197-b7b2-fb3eb8c14828)
